@@ -12,8 +12,8 @@
 {
     int number;//表示する画像の番号
     IBOutlet UIImageView *imgView ; //表示する画像
-    UIImage *imgArray[10] ; //表示する画像の配列（方法その１）
-    NSString *imgName[10] ; //表示する画像の名前の配列（方法その２）
+    //UIImage *imgArray[10] ; //表示する画像の配列（方法その１）
+    //NSString *imgName[10] ; //表示する画像の名前の配列（方法その２）
     
 }
 
