@@ -19,7 +19,7 @@
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
     
-    //for文を使わない方法
+    //配列に各画像を格納
     imgArray[0]=[UIImage imageNamed:@"0.png"];
     imgArray[1]=[UIImage imageNamed:@"1.png"];
     imgArray[2]=[UIImage imageNamed:@"2.png"];
